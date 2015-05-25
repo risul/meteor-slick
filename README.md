@@ -62,7 +62,7 @@ CSS for the "demo-box":
 }
 ```
 
-Create your own theme or include the default slickjs theme: https://raw.githubusercontent.com/kenwheeler/slick/1.5.0/slick/slick-theme.css
+Create your own theme or include the default slickjs theme: https://raw.githubusercontent.com/kenwheeler/slick/1.5.5/slick/slick-theme.css
 
 
 ## Documentaion

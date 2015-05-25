@@ -1,7 +1,7 @@
 Package.describe({
     name: 'risul:slick',
     summary: "Slick - the last carousel you'll ever need",
-    version: "1.5.5",
+    version: "1.5.5_1",
     git: "https://github.com/risul/meteor-slick"
 });
 
